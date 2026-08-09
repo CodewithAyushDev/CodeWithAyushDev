@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ayush 
+# Hi there 👋, I'm CodewithLord
 
 🚀 **Front-End Developer | IT Undergraduate | Passionate Web Creator**  
 
