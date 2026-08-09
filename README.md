@@ -209,15 +209,6 @@ Immersive scroll-driven 3D portfolio with cyberpunk-neon visuals and scene trans
 
 </details>
 
-<details>
-<summary><b>🕉️ Cultural Projects</b></summary>
-<br/>
-
-- Ganesh Chaturthi stage design & décor concepts
-- Original Marathi devotional music production (AI-assisted composition)
-
-</details>
-
 <br/>
 
 ## 💬 Random Dev Quote
